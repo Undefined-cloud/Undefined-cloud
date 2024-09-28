@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SchoolHacker</h1>
+<h1 align="center">Hi 👋, I'm Undefined</h1>
 <h3 align="center">A hacker who hacks school restrictions *Cringy AF title*</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schoolhacker&label=Profile%20views&color=0e75b6&style=flat" alt="schoolhacker" /> </p>
