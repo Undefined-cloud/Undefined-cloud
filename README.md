@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **my foundaiton**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SchoolHacker3](https://github.com/SchoolHacker3)
+- 👨‍💻 All of my projects are available at [https://github.com/SchoolHacker3](https://github.com/undefined-cloud)
 
 - 💬 Ask me about **Hacks**
 
